@@ -5,6 +5,11 @@ Smart Home IoT ESP32
 Proyek ini merupakan Sistem Smart Home berbasis IoT yang menggunakan ESP32 sebagai mikrokontroler utama. Sistem memungkinkan pengguna mengontrol lampu rumah melalui Web Dashboard (desktop & mobile) serta komunikasi MQTT secara real-time.
 Sistem dirancang non-blocking dan multitasking dengan memanfaatkan FreeRTOS, interrupt, dan PWM untuk kontrol LED.
 
+🎥 Demo Video
+
+📺 Link YouTube Demo Sistem:
+https://youtu.be/UvEgn4nhbfk?si=5wGZxj86LK0gALg5
+
 ⚙️ Alur Singkat Sistem
 
 ESP32 terhubung ke WiFi atau masuk ke mode konfigurasi (ESP32-Config/AP) jika WiFi tidak tersedia.
@@ -68,7 +73,3 @@ HiveMQ membantu memastikan sistem MQTT berjalan sesuai konsep IoT.
 
 <img width="1770" height="989" alt="Screenshot 2026-02-04 185243" src="https://github.com/user-attachments/assets/410c2cae-2391-4632-b98d-693c4372b8fa" />
 
-🎥 Demo Video
-
-📺 Link YouTube Demo Sistem:
-https://youtu.be/UvEgn4nhbfk?si=5wGZxj86LK0gALg5
